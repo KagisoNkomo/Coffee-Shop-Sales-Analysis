@@ -8,10 +8,9 @@ This repository contains a detailed sales analysis for a coffee shop chain with 
 <img width="825" height="413" alt="Screenshot 2025-10-28 at 22 58 27" src="https://github.com/user-attachments/assets/58aab136-115d-4c46-ad3d-39133eb6d0bd" />
 
 # Recommendations
+<img width="1003" height="430" alt="Screenshot 2025-10-28 at 23 34 51" src="https://github.com/user-attachments/assets/317031ed-a223-4771-be90-21f73909be62" />
 
-<img width="985" height="445" alt="Screenshot 2025-10-28 at 22 47 21" src="https://github.com/user-attachments/assets/9e785add-4df9-4068-952d-8b8ad2092f53" />
-
-<img width="1009" height="389" alt="Screenshot 2025-10-28 at 22 46 35" src="https://github.com/user-attachments/assets/fe870179-b133-4f4a-a031-5fd817b7d703" />
+<img width="997" height="373" alt="Screenshot 2025-10-28 at 23 33 59" src="https://github.com/user-attachments/assets/fc138b85-5468-4112-b1c4-102ee3eb37e4" />
 
 <img width="1112" height="413" alt="Screenshot 2025-10-28 at 22 44 10" src="https://github.com/user-attachments/assets/8b1c4c3b-a33a-4624-a18c-257527a6ce63" />
 
