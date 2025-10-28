@@ -28,9 +28,10 @@ This repository contains a detailed sales analysis for a coffee shop chain with 
 
 # Output Files
 * Final Report of Results - Output Document: Includes a comprehensive analysis along with suggested recommendations.  
-* Coffee Shop SQL Code - Output SQL Document: Comprises the complete SQL code created.
+* [Coffee Shop SQL Code](https://github.com/KagisoNkomo/Coffee-Shop-Sales-Analysis/blob/main/Output%20File%20(Final%20Presentation%20%2B%20SQL%20Script)/Bright%20Coffee%20Sales%20Analysis.sql) - Output SQL Document: Comprises the complete SQL code created.
 
 # Tools & Technologies
 * SQL (Standard)
 * Snowflake Cloud Platform
 * MS Excel
+* 
