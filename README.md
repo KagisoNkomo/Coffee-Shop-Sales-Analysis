@@ -24,16 +24,16 @@ This repository contains a detailed sales analysis for a coffee shop chain with 
 * [Bright Coffee Sales CSV ](https://github.com/KagisoNkomo/Coffee-Shop-Sales-Analysis/blob/main/Input%20Data%20File%20(Project%20Description%20%2B%20Raw%20Data)/Bright%20Coffee%20Shop%20Sales.csv)- Input Data CSV File: Contains the information of sales from January to June 2023.
 
 # Working File
-* Output Data XLSX File: The SQL output table utilized to create the visuals found in the 'Sales Insights' tab.
+* [Sales Analysis](https://github.com/KagisoNkomo/Coffee-Shop-Sales-Analysis/blob/main/Working%20File%20(Excel%20Visuals%20%2B%20Project%20Plan)/Bright%20Coffee%20Analysis%20-%20Working%20File%20.xlsx) - Output Data XLSX File: The SQL output table utilized to create the visuals found in the 'Sales Insights' tab.
 * [Project Metholody and Execution Plan](https://github.com/KagisoNkomo/Coffee-Shop-Sales-Analysis/blob/main/Output%20File%20(Final%20Presentation%20%2B%20SQL%20Script)/Bright%20Coffee%20Sales%20Analysis.sql) - This document includes the comprehensive project plan.
 
 
 # Output Files
-* Final Report of Results - Output Document: Includes a comprehensive analysis along with suggested recommendations.  
+* [Final Sales Analysis Report of Results](https://github.com/KagisoNkomo/Coffee-Shop-Sales-Analysis/blob/main/Output%20File%20(Final%20Presentation%20%2B%20SQL%20Script)/Bright%20Coffee%20Shop%20Sales%20Analysis%20Presentation.pdf) - Output Document: Includes a comprehensive analysis along with suggested recommendations.  
 * [Coffee Shop SQL Code](https://github.com/KagisoNkomo/Coffee-Shop-Sales-Analysis/blob/main/Output%20File%20(Final%20Presentation%20%2B%20SQL%20Script)/Bright%20Coffee%20Sales%20Analysis.sql) - Output SQL Document: Comprises the complete SQL code created.
 
 # Tools & Technologies
 * SQL (Standard)
 * Snowflake Cloud Platform
 * MS Excel
-* 
+* Canva
