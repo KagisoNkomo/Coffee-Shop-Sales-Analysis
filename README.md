@@ -3,7 +3,9 @@ This repository contains a detailed sales analysis for a coffee shop chain with 
 
 # Summary of Findings
 
-<img width="830" height="624" alt="Screenshot 2025-10-28 at 23 02 31" src="https://github.com/user-attachments/assets/1b31bad5-56ef-484e-bccc-8909c13dc362" />
+<img width="1086" height="691" alt="Bright Coffee Sales Insights" src="https://github.com/user-attachments/assets/bf83b4a6-1c76-4ba0-8721-01ec68f47e01" />
+
+<img width="1229" height="462" alt="Bright Coffee Sales - Monthly Revenue Contribution (Jan-Jun)" src="https://github.com/user-attachments/assets/0c6426c2-e789-496d-9382-3ff0427e8b4c" />
 
 <img width="825" height="413" alt="Screenshot 2025-10-28 at 22 58 27" src="https://github.com/user-attachments/assets/58aab136-115d-4c46-ad3d-39133eb6d0bd" />
 
